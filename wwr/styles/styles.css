@@ -152,9 +152,9 @@ nav {
     grid-row: 1/2;
     margin-top: 100px;
 }
-main {
+.home-grid{
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: repeat(10, 1fr);
 }
 .card-img, .mountains {
     width: 100%;
@@ -246,5 +246,6 @@ footer {
     footer {
         margin-top: 25px;
     }
-}
+
+
      
