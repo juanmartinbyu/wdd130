@@ -225,3 +225,32 @@ footer .social img {
 header {
     padding-top: -10%;
 }
+.energyhome {
+  margin-right: 800px;
+  
+}
+.walkbike {
+  margin-left: 800px;
+  margin-top: -365px;
+}
+.vegetables {
+  margin-right: 800px;
+}
+.travel {
+  margin-left: 800px;
+  margin-top: -365px;
+}
+.food {
+  margin-right: 800px;
+}
+.recycling {
+  margin-left: 800px;
+  margin-top: -365px;
+}
+.energy {
+  margin-right: 800px;
+}
+.vehicle {
+  margin-left: 800px;
+  margin-top: -365px;
+}
