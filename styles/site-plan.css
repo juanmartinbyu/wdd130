@@ -228,6 +228,7 @@ header {
 .energyhome {
   margin-right: 800px;
   
+  
 }
 .walkbike {
   margin-left: 800px;
@@ -235,13 +236,16 @@ header {
 }
 .vegetables {
   margin-right: 800px;
+  
+  margin-bottom: 100px;
 }
 .travel {
   margin-left: 800px;
-  margin-top: -365px;
+  margin-top: -450px;
 }
 .food {
   margin-right: 800px;
+  
 }
 .recycling {
   margin-left: 800px;
@@ -249,8 +253,10 @@ header {
 }
 .energy {
   margin-right: 800px;
+  
 }
 .vehicle {
   margin-left: 800px;
   margin-top: -365px;
 }
+
